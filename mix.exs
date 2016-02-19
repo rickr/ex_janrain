@@ -1,4 +1,4 @@
-defmodule Janrain.Mixfile do
+defmodule ExJanrain.Mixfile do
   use Mix.Project
 
   def project do
@@ -36,7 +36,7 @@ defmodule Janrain.Mixfile do
       files: ["lib", "priv", "mix.exs", "README*", "readme*", "LICENSE*", "license*"],
       maintainers: ["Rick Rein"],
       licenses: ["MIT"],
-      links: %{"GitHub": "https://github.com/rickr/janrain"}
+      links: %{"GitHub": "https://github.com/rickr/ex_janrain"}
     ]
   end
 end
