@@ -36,7 +36,7 @@ defmodule ExJanrain.Mixfile do
       files: ["lib", "priv", "mix.exs", "README*", "readme*", "LICENSE*", "license*"],
       maintainers: ["Rick Rein"],
       licenses: ["MIT"],
-      links: %{"GitHub": "https://github.com/rickr/ex_janrain"}
+      links: %{"GitHub": "https://github.com/rickr/janrain"}
     ]
   end
 end
